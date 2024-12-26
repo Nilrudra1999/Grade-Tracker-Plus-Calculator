@@ -1,2 +1,5 @@
-# Grade-Tracker-Plus-Calculator
-Personal grade tracking system with the capability to record individual grades, categorize them by subject and semester, as well as calculate overall GPA based on existing data. Utilizes a relational database to store grade information.
+# Grade Tracker Plus Calculator
+
+A personalized grade tracking system, which records individual grades and categorizes them based on subject, assignment, weight, and semester. It utilizes a relational database to record the individual grades, then when asked to can calculate the GPA based on the existing data. Additionally, it uses a 90s retro sci-fi terminal aesthetic for its User-Interface, reminiscent of the computer terminals from the Ridley Scott Aliens franchise.
+
+## Class Structure For The Relational DB
