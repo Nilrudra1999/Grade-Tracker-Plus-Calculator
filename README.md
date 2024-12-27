@@ -15,7 +15,7 @@ A personalized grade tracking system, which records individual grades and catego
 - Within the Grade Tracker app's folder create a new text file named "DBinfo.txt" 
 - In this file write the following with the exact format as shown in the image below:
 
-![image](https://github.com/user-attachments/assets/2bf173e1-396a-48e1-9862-00943e9167dd)
+![image](https://github.com/user-attachments/assets/220848d1-4f88-4151-bc05-7dea6ba7d82e)
 
 - In the area marked white make sure to add your own local Database info
 - Run the windows script, found in this application's folder, named "run_setup.bat" 
