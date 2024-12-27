@@ -1,2 +1,6 @@
 # ignore personal DB user and login information
 DBinfo.txt
+
+# ignore developer class creation files for end users
+Grades Tracker Project.vpp
+Grades Tracker Project.vpp.bak_000f
