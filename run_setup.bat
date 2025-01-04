@@ -20,7 +20,8 @@ echo.
 :: Connect to Oracle as SYSDBA and run the setup script
 if exist setup_db.sql (
     sqlplus %username%/%password%@//%host%:%port%/%sid% AS SYSDBA @setup_db.sql
-    echo Setup complete.
+    echo.
+    echo Schema setup successful!
     echo.
 ) else (
     echo Error: setup_db.sql not found. Aborting the Database schema setup.
